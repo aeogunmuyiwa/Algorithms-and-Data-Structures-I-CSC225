@@ -1,5 +1,4 @@
-# csc-225
- CSC225: Algorithms and Data Structures: I 
+# CSC225: Algorithms and Data Structures: I 
  Topics
 
     Algorithm design techniques, time and space complexity, recurrence relations.
